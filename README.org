@@ -1,0 +1,10 @@
+* cl-oclapi
+
+Common Lisp binding for OpenCL API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gos-k/cl-oclapi.git   |
+| commit  | b33d8e0  |
+| systems | cl-oclapi |
+|---------+-------------------------------------------|
+
